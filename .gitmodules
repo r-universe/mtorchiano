@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "effsize"]
+	path = effsize
+	url = https://github.com/mtorchiano/effsize
+	shallow = true
+	registered = true
+[submodule "lmPerm"]
+	path = lmPerm
+	url = https://github.com/mtorchiano/lmperm
+	shallow = true
+	registered = true

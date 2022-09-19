@@ -8,8 +8,3 @@
 	url = https://github.com/mtorchiano/effsize
 	shallow = true
 	registered = true
-[submodule "lmPerm"]
-	path = lmPerm
-	url = https://github.com/mtorchiano/lmperm
-	shallow = true
-	registered = true

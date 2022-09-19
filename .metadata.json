@@ -2,5 +2,9 @@
   {
     "package": "effsize",
     "oncran": true
+  },
+  {
+    "package": "lmPerm",
+    "oncran": true
   }
 ]
